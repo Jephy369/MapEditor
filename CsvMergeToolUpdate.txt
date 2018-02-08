@@ -1,4 +1,4 @@
-1.0.6
+1.0.7
 http://112.74.126.123:8090/pages/viewpage.action?pageId=10128795
 更新内容：
 1、选中格子点击delete或删除backspace键可以清空格子内容
