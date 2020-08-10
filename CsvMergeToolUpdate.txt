@@ -1,4 +1,4 @@
-1.0.15
-http://112.74.126.123:8090/pages/viewpage.action?pageId=10128795
+1.0.16
+http://wiki.ys4fun.com/pages/viewpage.action?pageId=10128795
 增加功能：
-    ALT+UP 和 ALT+DOWN可以修改行顺序，也可以通过右键菜单“上移一行”或“下移一行”来执行。
+    修改大括号{}不匹配的时候，split错误的问题。
